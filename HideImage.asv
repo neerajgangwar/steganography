@@ -1,4 +1,0 @@
-function img = HideImage(img1, img2)
-    s = size(img2);
-    size_img2 = dec2bin(s);
-    
